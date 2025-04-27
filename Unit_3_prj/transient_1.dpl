@@ -1,0 +1,45 @@
+<Qucs Schematic 0.0.19>
+<Properties>
+  <View=0,0,1390,800,1,0,0>
+  <Grid=10,10,0>
+  <DataSet=transient_1.dat>
+  <DataDisplay=transient_1.sch>
+  <OpenDisplay=1>
+  <Script=transient_1.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Title>
+  <FrameText1=Drawn By:>
+  <FrameText2=Date:>
+  <FrameText3=Revision:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Tab 270 330 300 200 3 #c0c0c0 1 00 1 0 1 1 1 0 1 1 1 0 1 50 315 0 225 "" "" "">
+	<"Pr1.It" #0000ff 0 3 1 0 0>
+	<"Pr2.Vt" #0000ff 0 3 1 0 0>
+  </Tab>
+  <Rect 280 540 240 160 3 #c0c0c0 1 00 1 0 0.2 1 1 -0.1 0.5 1.1 1 -0.1 0.5 1.1 315 0 225 "" "" "">
+	<"Pr2.Vt" #0000ff 0 3 0 0 0>
+  </Rect>
+  <Rect 800 490 240 160 3 #c0c0c0 1 00 1 0 0.2 1 1 -0.1 0.5 1.1 1 -0.1 0.5 1.1 315 0 225 "" "" "">
+	<"time" #0000ff 0 3 0 0 0>
+  </Rect>
+  <Rect 740 190 240 160 3 #c0c0c0 1 00 1 0 0.2 1 1 -0.1 0.5 1.1 1 -0.1 0.5 1.1 315 0 225 "" "" "">
+	<"V1.It" #0000ff 0 3 0 0 0>
+  </Rect>
+  <Rect 610 770 240 160 3 #c0c0c0 1 00 1 0 0.2 1 1 -0.1 0.5 1.1 1 -0.1 0.5 1.1 315 0 225 "" "" "">
+	<"Pr1.It" #0000ff 0 3 0 0 0>
+  </Rect>
+  <Tab 1050 280 300 200 3 #c0c0c0 1 00 1 0 1 1 1 0 1 1 1 0 1 50 315 0 225 "" "" "">
+	<"Pr1.It" #0000ff 0 3 1 0 0>
+	<"Pr2.Vt" #0000ff 0 3 1 0 0>
+  </Tab>
+</Diagrams>
+<Paintings>
+</Paintings>
